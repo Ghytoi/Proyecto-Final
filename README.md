@@ -51,6 +51,6 @@ Requisitos del Sistema
 
 Compilación y Ejecución
 Para compilar el programa, se recomienda usar GCC desde la terminal:
-gcc main.c funciones.c -o gestor
+- "gcc main.c funciones.c -o gestor"
 Y para ejecutarlo:
-./gestor
+- "./gestor"
