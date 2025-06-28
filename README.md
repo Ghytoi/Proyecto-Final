@@ -50,7 +50,9 @@ Requisitos del Sistema
 - Consola para entrada y salida.
 
 Compilación y Ejecución
+
 Para compilar el programa, se recomienda usar GCC desde la terminal:
 - "gcc main.c funciones.c -o gestor"
+
 Y para ejecutarlo:
 - "./gestor"
