@@ -52,8 +52,8 @@ y el valor es un puntero a su ListaTareasResponsable. El hash se calcula con una
 
 --Compilación y Ejecución--
 
-Para compilar el programa, se recomienda usar GCC desde la terminal:
-- "gcc main.c funciones.c -o gestor"
-
-Y para ejecutarlo:
-- "./gestor"
+  Para compilar el programa, se recomienda usar GCC desde la terminal:
+  - "gcc main.c funciones.c -o gestor"
+  
+  Y para ejecutarlo:
+  - "./gestor"
