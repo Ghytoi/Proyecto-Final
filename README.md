@@ -1,4 +1,4 @@
-Gestor de Tareas y Proyectos en C
+--Gestor de Tareas y Proyectos en C--
 Esta aplicación de consola, escrita completamente en lenguaje C, permite gestionar proyectos y tareas de forma estructurada, 
 utilizando estructuras de datos como listas enlazadas, arreglos y tablas hash para una manipulación eficiente de la información.
 El sistema fue diseñado para simular el flujo de trabajo de herramientas como Trello o Asana, en un entorno puramente textual.
